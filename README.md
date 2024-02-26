@@ -37,16 +37,16 @@
 <h3 align="center">Users List</h3>
 
   <p align="center">
-    project_description
+    A simple React application that fetches and displays a list of users from a public API.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <!-- <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <br /> -->
     <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <!-- <a href="https://github.com/github_username/repo_name">View Demo</a>
     ·
     <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a> -->
   </p>
 </div>
 
@@ -165,7 +165,7 @@ There is a footer at the bottom of the page, which is also responsive.
 - [ ] Once the data is fetched successfully, display the list of users in the UserList component.
 - [ ] If there is an error during the API request, display an error message in the ErrorDisplay component.
 - [ ] Using MaterialUI to Make Web Pages Attractive and Responsive.
-- [ ] The UsersList has Expand/Collapse function, when the page becomes narrower, the table will shrink the columns to UserName only, the other columns can be viewed from the drop-down icon.
+- [ ] The UsersList has Expand/Collapse function, when the page becomes narrower, the table will shrink the columns to Name only, the other columns can be viewed from the drop-down icon.
 
 
 
