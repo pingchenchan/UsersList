@@ -140,10 +140,18 @@ You may also see any lint errors in the console.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+There is a header and a search button on this page, clicking search will fetch the api to get the user list.
+![Product Name Screen Shot][product-screenshot1]
+Circular progress as loading indicator when searching fetch api to get users list.
+![Product Name Screen Shot][product-screenshot2]
+users list
+![Product Name Screen Shot][product-screenshot3]
+When the page becomes narrower, the table will shrink the columns to UserName only, the other columns can be viewed from the drop-down icon.
+![Product Name Screen Shot][product-screenshot4]
+There is a footer at the bottom of the page, which is also responsive.
+![Product Name Screen Shot][product-screenshot5]
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -157,7 +165,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Once the data is fetched successfully, display the list of users in the UserList component.
 - [ ] If there is an error during the API request, display an error message in the ErrorDisplay component.
 - [ ] Using MaterialUI to Make Web Pages Attractive and Responsive.
-- [ ] The UsersList has Expand/Collapse function, when the page becomes narrower, the form will shrink the columns to UserName only, the other columns can be viewed from the drop-down icon.
+- [ ] The UsersList has Expand/Collapse function, when the page becomes narrower, the table will shrink the columns to UserName only, the other columns can be viewed from the drop-down icon.
 
 
 
@@ -210,7 +218,6 @@ Project Link: [https://github.com/pingchenchan/UsersList](https://github.com/pin
 * []()
 * []() -->
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -229,6 +236,11 @@ Project Link: [https://github.com/pingchenchan/UsersList](https://github.com/pin
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
+[product-screenshot1]: images/1.png
+[product-screenshot2]: images/2.png
+[product-screenshot3]: images/3.png
+[product-screenshot4]: images/4.png
+[product-screenshot5]: images/5.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
